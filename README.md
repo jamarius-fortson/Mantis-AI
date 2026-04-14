@@ -1,4 +1,4 @@
-# 🦂 Mantis: Distributed Autonomous Marketing Intelligence System
+# 🦂 Mantis AI
 
 > **The next-generation orchestration engine for algorithmic social distribution. Built for the era of agentic intelligence.**
 
@@ -10,7 +10,6 @@
 
 Mantis is an enterprise-grade, multi-agent orchestration engine designed to automate complex marketing lifecycles. Unlike traditional automation tools, Mantis leverages **Stateful GraphQL Topologies** and **Cognitive Agentic Workflows** to manage brand presence with near-zero latency and high-fidelity consistency.
 
-![Mantis Dashboard Architecture](socialpilot_dashboard_mockup_1772870940932.png)
 
 ---
 
